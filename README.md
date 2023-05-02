@@ -1,4 +1,4 @@
-# Awesome Bluesky Algo 🟦
+# Section 420 inspired by Section 230 but appropriate for xenomodernity
 
 Like the repository exploring the [Twitter Algo](https://github.com/igorbrigadir/awesome-twitter-algo) but for Bluesky.
 
