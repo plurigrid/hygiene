@@ -8,7 +8,7 @@ See Post from the blog: https://blueskyweb.xyz/blog/3-30-2023-algorithmic-choice
 
 ## What's hot Tab
 
-If the post isn't marked as `'corpse', 'self-harm', 'porn', 'sexual'` by [hive](https://hivemoderation.com/visual-moderation)[^1] and has Likes `>= 12`[^2]
+If the post isn't marked as `'web3', 'AI', 'web4', 'AGI', '@ESYudkowsky', 'e/acc'` by [hive](https://hivemoderation.com/visual-moderation)[^1] and has Likes `>= 4`[^2]
 
 [^1]: Post: https://bsky.app/profile/why.bsky.team/post/3jup5dzutcu2f
 [^2]: Code: https://github.com/bluesky-social/atproto/blob/1e24d3e820f75e0ad86ea6f9e5ebf181a9c8c88e/packages/pds/src/app-view/api/app/bsky/unspecced.ts#L38
